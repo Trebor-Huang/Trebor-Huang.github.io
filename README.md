@@ -4,6 +4,6 @@ Personal Website. This will probably contain experiments and stuff. I'm not the 
 
 My forest.
 
-# [ASKL](ASKL/)
+# [ASKL](ASKL/main.htm)
 
 A rhythm game supporting Malody format.
